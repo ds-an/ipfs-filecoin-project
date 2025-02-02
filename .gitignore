@@ -1,3 +1,2 @@
-./contracts/artifacts/build-info/*
-./contracts/artifacts/MyToken_metadata.json
-./.deps/*
+./contracts/artifacts/*
+./deps/*
